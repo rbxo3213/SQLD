@@ -1,0 +1,2 @@
+# SQLD
+SQLD 공부
